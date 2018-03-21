@@ -19,7 +19,7 @@ No detection!
 ```
 
 ## Built with
-[DarkNet](Darknet.com)
+[DarkNet](https://pjreddie.com/darknet/)
 
 ## Authors
 
@@ -30,4 +30,4 @@ No detection!
 Licensed under MIT License
 
 ## Acknowledgements
-@pjreddie for the awesome darknet lib
+@pjreddie for the awesome darknet repo
