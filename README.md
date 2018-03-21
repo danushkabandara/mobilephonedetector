@@ -1,6 +1,7 @@
 # Mobile Phone Detector
 ## What it does
 Detects mobile phone in an image and reports the location within the image using normalized x y coordinates
+![X and Y coordinates of mobile phone](https://github.com/danushkabandara/mobilephonedetector/blob/master/Capture.PNG)
 
 ## Getting started
 Clone the repository and run find_phone.py file. Install any prerequisites it asks for. I have included the compiles darknet library which might not work on your machine. In that case you should make your own libdarknet.so using the darnet repository.
