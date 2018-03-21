@@ -1,6 +1,6 @@
 # Mobile Phone Detector
 
-##Getting started
+## Getting started
 Clone the repository and run find_phone.py file. Install any prerequisites it asks for. I have included the compiles darknet library which might not work on your machine. In that case you should make your own libdarknet.so using the darnet repository.
 
 
@@ -14,16 +14,16 @@ Here is an unsuccessful detection
 $ python find_phone.py ./data/113.jpg
 No detection!
 
-##Built with
+## Built with
 [DarkNet](Darknet.com)
 
-##Authors
+## Authors
 
 * **Danushka Bandara**
 
-##License
+## License
 
 Licensed under MIT License
 
-##Acknowledgements
+## Acknowledgements
 @pjreddie for the awesome darknet lib
